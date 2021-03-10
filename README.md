@@ -5,4 +5,4 @@ This Repo contains the solution files to the Deploy Sentiment Analysis Project o
 
 The result is a deployed RNN performing sentiment analysis on movie reviews complete with publicly accessible API and a simple web page which interacts with the deployed endpoint. 
 
-<img src = >
+<img src="https://github.com/abyanjan/Deploy-Sentiment-Analysis-Project/blob/master/sentiment_analysis_web_app.PNG" width='600' height='300'>
